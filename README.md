@@ -58,10 +58,11 @@ Nova-ai/
 
 Make sure you have:
 
-Node.js
-npm
-Git
-Installation
+- Node.js
+- npm
+- Git
+
+## Installation
 
 **Clone the repository:**
 
@@ -90,32 +91,32 @@ Nova AI is deployed and available online through Vercel.
 
 **The project explores:**
 
-Generative AI user interfaces
-Agentic AI concepts
-Prompt engineering workflows
-AI-assisted software development
-Interactive AI workspaces
-Modern frontend architecture
+- Generative AI user interfaces
+- Agentic AI concepts
+- Prompt engineering workflows
+- AI-assisted software development
+- Interactive AI workspaces
+- Modern frontend architecture
 
 ## 💡 What I Learned
 
 **Through this project, I gained practical experience in:**
 
-Building modern interfaces with React
-Structuring frontend applications with Vite
-Designing AI-focused user experiences
-Creating configurable AI interaction interfaces
-Working with component-based UI development
-Deploying web applications using Vercel
+- Building modern interfaces with React
+- Structuring frontend applications with Vite
+- Designing AI-focused user experiences
+- Creating configurable AI interaction interfaces
+- Working with component-based UI development
+- Deploying web applications using Vercel
 
 ## 🔮 Future Improvements
-Integration with production LLM APIs
-Real-time AI model responses
-Persistent conversations
-Functional RAG workflows
-File and document interaction
-Improved agentic task execution
-Authentication and user-specific workspaces
+- Integration with production LLM APIs
+- Real-time AI model responses
+- Persistent conversations
+- Functional RAG workflows
+- File and document interaction
+- Improved agentic task execution
+- Authentication and user-specific workspaces
 
 ## 👨‍💻 Author
 
